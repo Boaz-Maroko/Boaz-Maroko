@@ -53,7 +53,7 @@ Check out my projects where I explore various technologies and push boundaries i
 
 You can reach out to me through:
 
-- 📧 Email: [boazmaroko@gmail.com](mailto:boazmaroko@gmail.com)
+- 📧 Email: [boazmaroko123@gmail.com](mailto:boazmaroko123@gmail.com)
 - 🌐 [Personal Website](https://boazmaroko.pythonanywhere.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/boaz-maroko)
 

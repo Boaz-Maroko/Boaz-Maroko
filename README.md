@@ -57,10 +57,4 @@ You can reach out to me through:
 - 🌐 [Personal Website](https://boazmaroko.pythonanywhere.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/boaz-maroko)
 
----
-
-![Boaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boaz-Maroko&show_icons=true&theme=radical)
-
----
-
 ### 🚀 Let's Build and Learn Together!

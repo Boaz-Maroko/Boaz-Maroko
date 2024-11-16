@@ -3,7 +3,7 @@
 **A passionate Full-Stack Developer, DevOps Enthusiast, Data Analyst, and Creative Designer!** 
 
 [![Website](https://img.shields.io/badge/Website-boazmaroko.pythonanywhere.com-orange?style=for-the-badge&logo=python&logoColor=white)](https://boazmaroko.pythonanywhere.com)
-[![GitHub followers](https://img.shields.io/github/followers/Boaz-Maroko?style=for-the-badge)](https://github.com/Boaz-Maroko)
+[![GitHub followers](https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000)](https://github.com/Boaz-Maroko)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/boaz-maroko)
 
 ---

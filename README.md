@@ -11,13 +11,20 @@
 ## 🛠️ Tech Stack & Skills:
 
 ### Languages
-![Python](![image](https://github.com/user-attachments/assets/388552e9-f356-4b17-bb34-bdae2b345879)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
+![Python](https://github.com/user-attachments/assets/4f75fea9-dead-4c4a-aeaa-d105bd6c5edc)
+![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
+![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+![Kotlin](https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000)
+
+### Markdown and Styling Languages
+---
+![HTML5](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+![CSS3](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
+
 
 ### Frameworks and Tools
+---
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

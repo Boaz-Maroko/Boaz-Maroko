@@ -2,7 +2,7 @@
 
 **A passionate Full-Stack Developer, DevOps Enthusiast, Data Analyst, and Creative Designer!** 
 
-[![Website](https://img.icons8.com/?size=100&id=42764&format=png&color=FFFFFF)]([https://boazmaroko.pythonanywhere.com](https://portfolio-six-ebon-91.vercel.app/)
+[![Website](https://img.icons8.com/?size=100&id=42764&format=png&color=FFFFFF)]([https://boazmaroko.pythonanywhere.com](https://portfolio-six-ebon-91.vercel.app/))
 [![GitHub followers](https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000)](https://github.com/Boaz-Maroko)
 [![LinkedIn](https://img.icons8.com/?size=100&id=114445&format=png&color=000000)](https://www.linkedin.com/in/boaz-maroko)
 
